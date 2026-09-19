@@ -1,5 +1,5 @@
 // const API_URL = "http://localhost:5000";
-const API_URL = "https://login-system-97ea.onrender.com";
+const API_URL = "https://login-system-api-9tf3.onrender.com";
 
 async function register() {
   const name = document.getElementById("name").value;
